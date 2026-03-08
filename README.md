@@ -58,20 +58,3 @@ Least privilege database roles
 Infrastructure defined as code
 State management secured
 
-azure-zero-trust-multitier-terraform/
-│
-├── main.tf
-├── network.tf
-├── sql.tf
-├── appservice.tf
-├── private-endpoint.tf
-├── dns.tf
-├── variables.tf
-├── outputs.tf
-├── backend.tf
-├── random.tf
-├── terraform.tfvars.example
-├── .gitignore
-├── architecture/
-│   └── architecture-diagram.png
-└── README.md
