@@ -14,7 +14,7 @@ Public network access disabled
 VNet integration for application layer
 
 Architecture Diagram
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8f157207-de3b-4a5b-8c1b-90c79b448a45" />
 
 Architecture Components
 Networking
