@@ -13,8 +13,8 @@ Managed Identity for App Service
 Public network access disabled
 VNet integration for application layer
 
-![Architecture](architecture/architecture-diagram.png)
-Architecture: ![Architecture](architecture/architecture-diagram.png)
+Architecture Diagram
+
 
 Architecture Components
 Networking
